@@ -13,4 +13,6 @@
    * テスト済み: 3.7~3.10
 
 ## テスト環境
-* Ubuntu 
+* Ubuntu
+
+©2023 Issei Kimura 

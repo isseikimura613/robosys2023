@@ -5,11 +5,17 @@
 import sys
 
 ans = 0
+ans1 = 1
+asn2 = 0
 for line in sys.stdin:
     try:
         ans += int(line)
+        ans1 *= int(line)
     except:
         ans += float(line)
+        ans1 *= float(line)
 
-print(ans)
-
+    ans2 = ans + ans1
+print(f"足し算 {ans}")
+print(f"かけ算 {ans1}")
+print(f"合計 {ans2}")

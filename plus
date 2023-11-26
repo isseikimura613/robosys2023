@@ -16,6 +16,6 @@ for line in sys.stdin:
         ans1 *= float(line)
 
     ans2 = ans + ans1
-print(f"足し算 {ans}")
-print(f"かけ算 {ans1}")
-print(f"合計 {ans2}")
+print(ans)
+print(ans1)
+print(ans2)

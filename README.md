@@ -3,7 +3,7 @@
 # plusコマンド
 [![test](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml)
 
-# ソフトの内容
+## ソフトの内容
 標準出力から数字を読みこみ、数列で以下の計算をする。
 
 (1)数列の足し算
@@ -12,16 +12,18 @@
 
 (3)足し算とかけ算の合計
 
-# 使い方
+## 使い方
 インストール方法
 
 $ git clone https://github.com/isseikimura613/robosys2023.git
 
 $ cd rodosys2023/
 
+
 実行方法
 
 $ seq 5 | ./plus
+
 
 実行結果
 

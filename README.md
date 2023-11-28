@@ -1,28 +1,36 @@
 # robosys2023
-ロボットシステム学
+ロボットシステム学2023の授業内で作成したリポジトリである。
 # plusコマンド
 [![test](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml)
 
 ## ソフトの内容
-＊ 標準出力から数字を読みこみ、数列で以下の計算をする。
-   * 数列の足し算
-   * 数列のかけ算
+＊ 標準出力から数字を読みこみ、以下の計算をする。
+   * 足し算
+   * かけ算
    * 足し算とかけ算の合計
 
 ## 使い方
 ＊ インストール方法
 ```
     $ git clone https://github.com/isseikimura613/robosys2023.git
-    $ cd rodosys2023/
 ```
 
 ＊ 実行方法
+
+以下のコマンドでディレクトリに移動する。
+```
+    $ cd robosys2023/
+```
+
+以下のコマンドで実行する。
 ```
     $ seq 5 | ./plus
 ```
 
 ＊ 実行結果
-   * 15 120 135
+```
+    15 120 135
+```
    * 左から足し算、かけ算、足し算とかけ算の合計
 
 ## 必要なソフトウェア

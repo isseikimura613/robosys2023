@@ -12,19 +12,19 @@
 ## 使い方
 ＊ インストール方法
 ```
-    $ git clone https://github.com/isseikimura613/robosys2023.git
+    $git clone https://github.com/isseikimura613/robosys2023.git
 ```
 
 ＊ 実行方法
 
 以下のコマンドでディレクトリに移動する。
 ```
-    $ cd robosys2023/
+    $cd robosys2023/
 ```
 
 以下のコマンドで実行する。
 ```
-    $ seq 5 | ./plus
+    $seq 5 | ./plus
 ```
 
 ＊ 実行結果

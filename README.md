@@ -11,14 +11,15 @@
 
 ## 使い方
 ＊ インストール方法
-
-   * $ git clone https://github.com/isseikimura613/robosys2023.git
-   * $ cd rodosys2023/
-
+```
+    $ git clone https://github.com/isseikimura613/robosys2023.git
+    $ cd rodosys2023/
+```
 
 ＊ 実行方法
-   * $ seq 5 | ./plus
-
+```
+    $ seq 5 | ./plus
+```
 
 ＊ 実行結果
    * 15 120 135
@@ -29,7 +30,7 @@
    * テスト済み: 3.7~3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 20.04 on Windows
 
 # ライセンス
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されています。

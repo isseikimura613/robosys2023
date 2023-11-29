@@ -3,18 +3,18 @@
 [![test](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml)
 
 ## ソフトの内容
-＊ 標準出力から数字を読みこみ、1から読み込んだ数字までを使い以下の計算をする。
+* 標準出力から数字を読みこみ、1から読み込んだ数字までを使い以下の計算をする。
    * 足し算
    * かけ算
    * 足し算とかけ算の合計
 
 ## 使い方
-＊ インストール方法
+* インストール方法
 ```
     $ git clone https://github.com/isseikimura613/robosys2023.git
 ```
 
-＊ 実行方法
+* 実行方法
 
 以下のコマンドでディレクトリに移動する。
 ```
@@ -27,7 +27,7 @@
     $ seq 5 | ./plus
 ```
 
-＊ 実行結果
+* 実行結果
 ```
     15 120 135
 ```

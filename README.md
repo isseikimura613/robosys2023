@@ -1,5 +1,4 @@
 # robosys2023
-ロボットシステム学2023の授業内で作成したリポジトリである。
 # plusコマンド
 [![test](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/isseikimura613/robosys2023/actions/workflows/test.yml)
 
